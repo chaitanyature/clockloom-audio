@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420">
+<rect width="100%" height="100%" fill="#122c32"/>
+<g font-family="sans-serif" fill="#e9f2ed"><text x="32" y="37" font-size="23">Clock fit · landmark residuals</text>
+<text x="32" y="81" font-size="16">quay.wav · +457.9 ppm · offset +0.9300 s</text>
+<path d="M92 149H930" stroke="#6c8f91" stroke-dasharray="4 4"/>
+<text x="79" y="193.0" font-size="11" fill="#b5cccb" text-anchor="end">-0.42 ms</text>
+<text x="79" y="153.0" font-size="11" fill="#b5cccb" text-anchor="end">+0.00 ms</text>
+<text x="79" y="113.0" font-size="11" fill="#b5cccb" text-anchor="end">+0.42 ms</text>
+<circle cx="98.49" cy="155.00" r="3.8" fill="#6eddb2"/>
+<circle cx="126.21" cy="155.38" r="3.8" fill="#6eddb2"/>
+<circle cx="153.92" cy="155.81" r="3.8" fill="#6eddb2"/>
+<circle cx="181.64" cy="154.55" r="3.8" fill="#6eddb2"/>
+<circle cx="209.36" cy="152.31" r="3.8" fill="#6eddb2"/>
+<circle cx="237.08" cy="144.76" r="3.8" fill="#6eddb2"/>
+<circle cx="264.79" cy="143.02" r="3.8" fill="#6eddb2"/>
+<circle cx="292.51" cy="132.03" r="3.8" fill="#6eddb2"/>
+<circle cx="320.23" cy="143.44" r="3.8" fill="#6eddb2"/>
+<circle cx="347.94" cy="146.50" r="3.8" fill="#6eddb2"/>
+<circle cx="375.66" cy="145.18" r="3.8" fill="#6eddb2"/>
+<circle cx="403.38" cy="143.59" r="3.8" fill="#6eddb2"/>
+<circle cx="431.09" cy="147.57" r="3.8" fill="#6eddb2"/>
+<circle cx="458.81" cy="149.04" r="3.8" fill="#6eddb2"/>
+<circle cx="486.53" cy="150.54" r="3.8" fill="#6eddb2"/>
+<circle cx="514.25" cy="151.10" r="3.8" fill="#6eddb2"/>
+<circle cx="541.96" cy="152.55" r="3.8" fill="#6eddb2"/>
+<circle cx="569.68" cy="149.48" r="3.8" fill="#6eddb2"/>
+<circle cx="597.40" cy="154.32" r="3.8" fill="#6eddb2"/>
+<circle cx="625.11" cy="155.32" r="3.8" fill="#6eddb2"/>
+<circle cx="652.83" cy="155.45" r="3.8" fill="#6eddb2"/>
+<circle cx="680.55" cy="148.52" r="3.8" fill="#6eddb2"/>
+<circle cx="708.26" cy="141.02" r="3.8" fill="#6eddb2"/>
+<circle cx="735.98" cy="142.12" r="3.8" fill="#6eddb2"/>
+<circle cx="763.70" cy="142.85" r="3.8" fill="#6eddb2"/>
+<circle cx="791.42" cy="143.11" r="3.8" fill="#6eddb2"/>
+<circle cx="819.13" cy="179.77" r="3.8" fill="#6eddb2"/>
+<circle cx="846.85" cy="144.37" r="3.8" fill="#6eddb2"/>
+<circle cx="874.57" cy="145.42" r="3.8" fill="#6eddb2"/>
+<circle cx="902.28" cy="146.90" r="3.8" fill="#6eddb2"/>
+<circle cx="930.00" cy="147.97" r="3.8" fill="#6eddb2"/>
+<text x="92" y="219" fill="#b5cccb" font-size="12">0 s</text>
+<text x="930" y="219" text-anchor="end" fill="#b5cccb" font-size="12">11.61 s · recorder time</text>
+<text x="32" y="261" font-size="16">boat.wav · -675.6 ppm · offset -0.4600 s</text>
+<path d="M92 329H930" stroke="#6c8f91" stroke-dasharray="4 4"/>
+<text x="79" y="373.0" font-size="11" fill="#b5cccb" text-anchor="end">-0.35 ms</text>
+<text x="79" y="333.0" font-size="11" fill="#b5cccb" text-anchor="end">+0.00 ms</text>
+<text x="79" y="293.0" font-size="11" fill="#b5cccb" text-anchor="end">+0.35 ms</text>
+<path d="M94.50 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<path d="M122.25 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<circle cx="153.00" cy="324.31" r="3.8" fill="#6eddb2"/>
+<circle cx="180.75" cy="329.99" r="3.8" fill="#6eddb2"/>
+<circle cx="208.50" cy="332.46" r="3.8" fill="#6eddb2"/>
+<circle cx="236.25" cy="330.21" r="3.8" fill="#6eddb2"/>
+<circle cx="264.00" cy="323.99" r="3.8" fill="#6eddb2"/>
+<circle cx="291.75" cy="325.65" r="3.8" fill="#6eddb2"/>
+<circle cx="319.50" cy="324.41" r="3.8" fill="#6eddb2"/>
+<circle cx="347.25" cy="329.23" r="3.8" fill="#6eddb2"/>
+<circle cx="375.00" cy="331.94" r="3.8" fill="#6eddb2"/>
+<circle cx="402.75" cy="335.05" r="3.8" fill="#6eddb2"/>
+<circle cx="430.50" cy="339.72" r="3.8" fill="#6eddb2"/>
+<circle cx="458.25" cy="320.63" r="3.8" fill="#6eddb2"/>
+<path d="M483.00 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<path d="M510.75 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<path d="M538.50 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<path d="M566.25 373l6 6m0 -6l-6 6" stroke="#eeb876"/>
+<circle cx="597.00" cy="336.78" r="3.8" fill="#6eddb2"/>
+<circle cx="624.75" cy="339.71" r="3.8" fill="#6eddb2"/>
+<circle cx="652.50" cy="322.61" r="3.8" fill="#6eddb2"/>
+<circle cx="680.25" cy="325.36" r="3.8" fill="#6eddb2"/>
+<circle cx="708.00" cy="327.97" r="3.8" fill="#6eddb2"/>
+<circle cx="735.75" cy="332.83" r="3.8" fill="#6eddb2"/>
+<circle cx="763.50" cy="335.69" r="3.8" fill="#6eddb2"/>
+<circle cx="791.25" cy="298.41" r="3.8" fill="#6eddb2"/>
+<circle cx="819.00" cy="341.68" r="3.8" fill="#6eddb2"/>
+<circle cx="846.75" cy="323.82" r="3.8" fill="#6eddb2"/>
+<circle cx="874.50" cy="327.15" r="3.8" fill="#6eddb2"/>
+<circle cx="902.25" cy="330.66" r="3.8" fill="#6eddb2"/>
+<circle cx="930.00" cy="334.72" r="3.8" fill="#6eddb2"/>
+<text x="92" y="399" fill="#b5cccb" font-size="12">0 s</text>
+<text x="930" y="399" text-anchor="end" fill="#b5cccb" font-size="12">13.71 s · recorder time</text>
+</g></svg>
